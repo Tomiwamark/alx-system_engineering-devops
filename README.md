@@ -1,1 +1,1 @@
-my readme file
+the absolute path name
